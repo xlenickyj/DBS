@@ -1,0 +1,44 @@
+Street
+Avenue
+Lane
+Park
+Route
+Road
+Way
+Place
+Second
+Third
+First
+Fourth
+Fifth
+Main
+Sixth
+Oak
+Seventh
+Pine
+Maple
+Cedar
+Eighth
+Elm
+View
+Ninth
+Lake
+Hill
+Boulevard
+Peak
+Cross
+Crossroad
+File
+Maze
+Plate
+Cesta
+Square
+Ballon Ave
+High lane
+Plate hill
+Ave
+Crossing
+1. street
+2. street
+1. lane
+2. lane
